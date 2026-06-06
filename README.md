@@ -350,9 +350,6 @@ Have questions, suggestions, or want to collaborate? Feel free to reach out!
 
 - 📧 **For Email Inquiries:** amalts5885@gmail.com
 - 🐙 **For Bug Reports:** [GitHub Issues](https://github.com/amaldev-ts/diabetes-prediction-system/issues)
-- 💡 **For Feature Requests:** [GitHub Discussions](https://github.com/amaldev-ts/diabetes-prediction-system/discussions)
-- ⭐ **For Appreciation:** Star this repo!
-
 I'm always open to:
 - 💼 Job opportunities
 - 🤝 Collaboration projects
