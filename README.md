@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction System
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=render)](https://diabetes-prediction-system.onrender.com)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -13,11 +13,6 @@ A Machine Learning-based web application that predicts whether a person is likel
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **[Try It Live](https://diabetes-prediction-system.onrender.com)**
-
-> ⚠️ **Note:** First load may take 30-60 seconds (free hosting wake-up time)
 
 ---
 
