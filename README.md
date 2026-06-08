@@ -69,7 +69,8 @@ The model is trained using the **Pima Indians Diabetes Dataset**.
 | 🩸 **Glucose Level** | Plasma glucose concentration | mg/dL |
 | 💓 **Blood Pressure** | Diastolic blood pressure | mm Hg |
 | 🎂 **Age** | Age of the person | Years |
-
+| 📏 **Height** | Height of person | cm |
+| ⚖️ **Weight** | Weight of person | kg |
 ---
 
 ## 📂 Project Structure
@@ -83,7 +84,7 @@ diabetes-prediction-system/
 │   └── index.html
 ├── app.py                   # Flask application
 ├── main.py                  # Main entry point
-├── predict.py               # Prediction logic
+├── predict.py               # Prediction logical 
 ├── train_model.py           # Model training script
 ├── diabetes.csv             # Dataset
 ├── diabetes_model.pkl       # Trained ML model
