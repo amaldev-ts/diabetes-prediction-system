@@ -68,7 +68,6 @@ The model is trained using the **Pima Indians Diabetes Dataset**.
 | 🤰 **Pregnancies** | Number of times pregnant | Count |
 | 🩸 **Glucose Level** | Plasma glucose concentration | mg/dL |
 | 💓 **Blood Pressure** | Diastolic blood pressure | mm Hg |
-| 💉 **Insulin** | 2-Hour serum insulin | mu U/ml |
 | 🎂 **Age** | Age of the person | Years |
 
 ---
